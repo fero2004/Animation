@@ -1,0 +1,5 @@
+platform:ios,'7.0'
+target 'testAnimation' do
+pod 'pop'
+end
+
